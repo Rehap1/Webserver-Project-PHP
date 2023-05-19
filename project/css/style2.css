@@ -1,0 +1,19 @@
+.tableBody1, .tableBody2{
+    background-image: url("../images/img3.jpeg");
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: bolder;
+}
+.tableBody1{
+    background-size: contain;
+   
+}
+.tableBody2{
+    background-size: cover;
+}
+.table,h2 {
+    color: rgb(6, 6, 93);
+}
+
+
